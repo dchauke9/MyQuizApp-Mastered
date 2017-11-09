@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!--Mathematics Questions-->
+    <string name="question1">Question 1. The average of first 50 natural numbers is</string>
+    <string name="question1_choice1">(i) 25.30</string>
+    <string name="question1_choice2">(ii) 25.5</string>
+    <string name="question1_choice3">(iii) 12.25</string>
+
+    <string name="question2">Question 2.  65 – 43 = ?</string>
+
+    <string name="question3">Question 3. Select any two odd numbers</string>
+    <string name="question3_choice1">2.5</string>
+    <string name="question3_choice2">4</string>
+    <string name="question3_choice3">3</string>
+    <string name="question3_choice4">17</string>
+
+    <string name="question4">Question 4. What comes after a million, billion and trillion?</string>
+
+    <string name="question5">Question 5. What is 1004 divided by 2?</string>
+    <string name="question5_choice1">52</string>
+    <string name="question5_choice2">502</string>
+    <string name="question5_choice3">520</string>
+
+    <string name="question6">Question 6. What does 3 squared equal?</string>
+
+    <string name="question7">Question 7. The number of 3-digit numbers divisible by 6, is</string>
+    <string name="question7_choice1">149</string>
+    <string name="question7_choice2">166</string>
+    <string name="question7_choice3">150</string>
+    <string name="question7_choice4">151</string>
+
+    <string name="question8">Question 8. 3 + 2 * 5</string>
+
+    <string name="question9">Question 9. True or false? -2 is an integer.</string>
+    <string name="question9_choice1">True</string>
+    <string name="question9_choice2">False</string>
+
+    <string name="question10">Question 10. 7 x 9 = ?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+    <!-- General Knowledge Quiz -->
+    <string name="questionGen1">Question 1. What is the capital of Romania?</string>
+    <string name="questionGen1_choice1">Budapest</string>
+    <string name="questionGen1_choice2">Bucharest</string>
+    <string name="questionGen1_choice3">Bukovina</string>
+
+    <string name="questionGen2">Question 2.  Who is this?</string>
+
+    <string name="questionGen3">Question 3. Select two. What countries are these the flags of</string>
+    <string name="questionGen3_choice1">South Africa</string>
+    <string name="questionGen3_choice2">Uganda</string>
+    <string name="questionGen3_choice3">USA</string>
+    <string name="questionGen3_choice4">China</string>
+
+    <string name="questionGen4">Question 4. What comes after a million, billion and trillion?</string>
+
+    <string name="questionGen5">Question 5. Which musician has won the most Grammy Awards?</string>
+    <string name="questionGen5_choice1">Emtee</string>
+    <string name="questionGen5_choice2">Beyonce</string>
+    <string name="questionGen5_choice3">Kwesta</string>
+    <string name="questionGen6">Question 6. Who is the first South African black president?</string>
+
+    <string name="questionGen7">Question 7. What year was Titanic released in the US?</string>
+    <string name="questionGen7_choice1">1996</string>
+    <string name="questionGen7_choice2">1997</string>
+    <string name="questionGen7_choice3">1998</string>
+    <string name="questionGen7_choice4">2008</string>
+
+    <string name="questionGen8">Question 8. Theme color of MTN</string>
+
+    <string name="questionGen9">Question 9. True or false? 0 is an integer.</string>
+    <string name="questionGen9_choice1">True</string>
+    <string name="questionGen9_choice2">False</string>
+
+    <string name="questionGen10">Question 10. 7  * 9</string>
+    <string name="submit_gen_answers">Submit Answers</string>
+
+
+
+    <!-- Helps to improve IT knowledge. -->
+    <string name="questionIT1">Question 1. Short cut key for Bold is</string>
+    <string name="questionIT1_choice1">Ctrl+c</string>
+    <string name="questionIT1_choice2">Ctrl+b</string>
+    <string name="questionIT1_choice3">Ctrl+z</string>
+
+    <string name="questionIT2">Question 2.  What does RAM stand for?</string>
+
+    <string name="questionIT3">Question 3. Select two. Information given to a compute is called as</string>
+    <string name="questionIT3_choice1">Output</string>
+    <string name="questionIT3_choice2">Input</string>
+    <string name="questionIT3_choice3">Results(optional)</string>
+    <string name="questionIT3_choice4">contents</string>
+
+    <string name="questionIT4">Question 4. What is the main function of Backspace?</string>
+
+    <string name="questionIT5">Question 5. 1 GB=____MB</string>
+    <string name="questionIT5_choice1">1024</string>
+    <string name="questionIT5_choice2">1334</string>
+    <string name="questionIT5_choice3">2017</string>
+    <string name="questionIT6">Question 6. Well known search engines</string>
+
+    <string name="questionIT7">Question 7. What is the meaning of CPU</string>
+    <string name="questionIT7_choice1">Central Processing Unit</string>
+    <string name="questionIT7_choice2">Critical Processing Unit</string>
+    <string name="questionIT7_choice3">Crucial Processing Unit</string>
+    <string name="questionIT7_choice4">Central Printing Unit</string>
+
+    <string name="questionIT8">Question 8. Ctrl + Z is for?</string>
+
+    <string name="questionIT9">Question 9. True or false? The smallest measurement of memory is Bit.</string>
+    <string name="questionIT9_choice1">True</string>
+    <string name="questionIT9_choice2">False</string>
+
+    <string name="questionIT10">Question 10. Computer understands _________ language</string>
+    <string name="submit_IT_answers">Submit Answers</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
